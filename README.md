@@ -6,6 +6,8 @@ Desc:
   Fixed side bar that was not working. Adjusted alt text to make the site more SE Optimized.
   
 Screen shot: 
+
+
   ![image](https://user-images.githubusercontent.com/97259978/152448576-aff4c83e-0f70-4cf9-b7dc-32d2b89671af.png)
 
 URL:
