@@ -5,6 +5,7 @@
     margin: 0;
     color: white;
     list-style-type: none;
+    text-decoration: none;
 }
 
 /* Setting page background color */
@@ -39,42 +40,40 @@ header nav {
     font-size: 20px;
 }
 
+/* Complets nav formatting */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-a {
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
-.hero {
+/* formats banner picture */
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
 }
 
+/* floats main field to left side of page */
 main {
     float: left;
     width: 76%;
 }
 
+/* floats certain images to left of their containers and sets height */
 .float-left {
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
 
+/* floats certain images to right of their containers and sets height */
 .float-right {
     float: right;
     margin-left: 25px;
     max-height: 200px;
 }
 
+/* formats the aside container and floats it to the right of the page */
 aside {
     float: right;
     width: 20%;
@@ -85,46 +84,56 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     display: block;
+    font-size: 16px;
 }
 
-.benefit h3 {
+/* formats the h3 headers */
+h3 {
     margin-top: 10px;
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* formats the images in the aside container with class benefit */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* formats the sections within main  */
 section {
     margin-bottom: 20px;
     float: left;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;    
+    background-color: #0072bb;
+    font-size: 16px;    
 }
 
+/* formats h2 */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* formats the footer */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    font-size: 16px;
 }
 
+/* formats the unique footer h2 */
 footer h2 {
     font-size: 20px;
     color: black;
 }
 
+/* formats the subtext within the footer */
 footer p {
     color: black;
 }
