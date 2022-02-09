@@ -1,4 +1,4 @@
-# Horiseon-SEO-Services-Section-01-Homework
+# Horiseon-SEO-Services
 SEO optimization Homework Section-01
 
 Desc: 
